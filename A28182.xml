@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Honourable House of Commons at St. Margarets Westminster, January 30, 1694 by Peter Birch ...</title>
+            <author>Birch, Peter, 1652?-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28182</idno>
+            <idno type="STC">Wing B2939</idno>
+            <idno type="STC">ESTC R12701</idno>
+            <idno type="EEBO-CITATION">12647309</idno>
+            <idno type="OCLC">ocm 12647309</idno>
+            <idno type="VID">65172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65172)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 975:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Honourable House of Commons at St. Margarets Westminster, January 30, 1694 by Peter Birch ...</title>
+                  <author>Birch, Peter, 1652?-1710.</author>
+               </titleStmt>
+               <extent>[2], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Nott ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:65172:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Mercurii,</hi> 31<hi>
+                        <hi rend="sup">mo</hi> die Jan.</hi> 1693.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Ordered,</hi>
+            </p>
+            <p>THat the Thanks of the Houſe be given to Dr. <hi>Birch,</hi> for the Ser<g ref="char:EOLhyphen"/>mon by him preached before this Houſe yeſterday, at St. <hi>Margarets Weſtminſter:</hi> And that he be deſired to Print the ſame. And that Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Dyke</hi> and Mr. <hi>Hungerford</hi> do ac<g ref="char:EOLhyphen"/>quaint him therewith.</p>
+            <closer>
+               <signed>
+                  <hi>Paul Jodrell,</hi> Cl. Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:65172:1"/>
+            <p> A SERMON Preached before the Honourable <hi>Houſe of Commons,</hi> AT St Margarets Weſtminſter, <hi>JAN<g ref="char:V">Ʋ</g>ARY</hi> 30. 1694.</p>
+            <p>By <hi>Peter Birch,</hi> D. D. Chaplain in Ordinary to Their Majeſties.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Nott</hi> in the <hi>Pall mall,</hi> and are to be Sold by <hi>Randal Tay<g ref="char:EOLhyphen"/>lor,</hi> near <hi>Stationers-hall,</hi> 1694.</p>
+            <pb facs="tcp:65172:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:65172:2"/>
+            <epigraph>
+               <bibl>2 SAM. I. 21.</bibl>
+               <q>
+                  <hi>Ye Mountains of</hi> Gilboa <hi>let there be no dew, neither let there be rain upon you, nor fields of offerings: for there the ſhield of the mighty is vilely caſt away, the ſhield of</hi> Saul, <hi>as though he had not been anoint<g ref="char:EOLhyphen"/>ed with oyl.</hi>
+               </q>
+            </epigraph>
+            <p>THis is part of the lamentation of <hi>David</hi> over <hi>Saul,</hi> and an expreſſion of his grief ſo raiſed and extraordinary, as nothing but the greatneſs of the occaſion could excite, nor any raptures but thoſe of a King and Pro<g ref="char:EOLhyphen"/>phet preſent us with.</p>
+            <p>It is over the fall of a Prince, that was literal<g ref="char:EOLhyphen"/>ly the Lords anointed and his Succeſſor, or if any prefer the being Vicegerents to their inferi<g ref="char:EOLhyphen"/>ours, that was the deſire and choice of the peo<g ref="char:EOLhyphen"/>ple; <hi>Saul</hi> being advanced to the throne when
+<pb n="2" facs="tcp:65172:3"/> 
+               <hi>Iſrael</hi> firſt grew weary of the Theocracy, and deſired a King after the form of other nations. Beſides that after his unction he had a new heart given him, and was numbred among the Pro<g ref="char:EOLhyphen"/>phets; ſo that his obſequies were fit only to be ſolemniz'd by one like himſelf, the known inhe<g ref="char:EOLhyphen"/>ritor of his Kingdom and Spirit. To whoſe tears alſo it muſt needs have been a conſidera<g ref="char:EOLhyphen"/>ble addition, that he had then raiſed an army, which though not immediately employed a<g ref="char:EOLhyphen"/>gainſt his maſter, yet we find offered unto <hi>A<g ref="char:EOLhyphen"/>chiſh,</hi> and that it made the rear of his battel when he went out to fight againſt <hi>Iſrael;</hi> and therefore it is no wonder, that he whoſe heart ſmote him for offering violence but to the skirt of his Prince's robe, ſhould be overwhelmed at his death.</p>
+            <p>But beſides theſe appropriate circumſtances, there are ſufficient in this pathetick ſtory to war<g ref="char:EOLhyphen"/>rant our Churches accommodating it to the preſent ſolemnity. For although few Texts of Scripture are exactly ſuited to thoſe of provi<g ref="char:EOLhyphen"/>dences, and much leſs to that crime without a precedent, in which all the villanies of our late confuſions were compleated, yet does this noble
+<pb n="3" facs="tcp:65172:3"/> inſtance of <hi>David</hi>'s piety to <hi>Saul</hi> teach us that our duty is practicable, even againſt an apparent intereſt, and the higheſt provocations.</p>
+            <p>We need not then ſpend time in making out the parallel, or enquire whether God really ſuf<g ref="char:EOLhyphen"/>fered his anointed to fall by the hands of one he had diſobediently ſaved; 'tis enough for us that <hi>David</hi> believed the <hi>Amalekites</hi> relation, and that his carriage herein is recorded for our example, to guide poſterity in the ſame courſe. He was at that time under more true diſcouragements from his duty, than ever any rebel ſince invent<g ref="char:EOLhyphen"/>ed falſe ones; he had a juſt declared title to ſucceed, had ſaved the honour of his Country, and was the darling of his people, and yet had grievances alone to plead, where he had merited rewards. For he was openly perſecuted by <hi>Saul,</hi> with a malice that ſeemed equally incapa<g ref="char:EOLhyphen"/>ble of end or increaſe; one that all his ſervices and ſubmiſſions together could never allay, that had endangered the life of <hi>Jonathan</hi> for inter<g ref="char:EOLhyphen"/>ceding, and could ungratefully welcome him from the ſlaughter of the <hi>Philiſtins,</hi> with ſeeking to ſtrike him to the wall with a Javelin: that as himſelf complains, purſued him like a Par<g ref="char:EOLhyphen"/>tridge
+<pb n="4" facs="tcp:65172:4"/> on the mountains, and made his days as a ſhadow that declineth.</p>
+            <p>And yet when this heir of the kingdom ſaw the Crown and his Enemy fall into his hands to<g ref="char:EOLhyphen"/>gether, he does not baſely trample upon his misfortunes, or draw arguments from provi<g ref="char:EOLhyphen"/>dences to conclude him rejected of God, but forgetting his revenge, he firſt vindicates the majeſty of <hi>Saul</hi> by the death of his deſtroyer, and then he piouſly laments over him; not with a tranſient and retired grief, as if he alone had been concerned, but after the ſame manner as the Goſpel now provides, that ſupplications, prayers and interceſſions be made for Kings, <hi>i. e.</hi> compoſed and ſolemnly performed in our daily offices; ſo he likewiſe frames this divine lamentation, enters it in his book of <hi>Jaſher,</hi> where his other hymns and ſpiritual ſongs were written; and having, according to the uſe of ancient times, given it a title from the moſt eminent paſſage, as was the bow of <hi>Jonathan,</hi> he to make the ſorrow univerſal, commands it to be taught the children of <hi>Judah;</hi> that all might learn with one heart and mouth to weep over the light and beauty of <hi>Iſrael. Ye moun<g ref="char:EOLhyphen"/>tains</hi>
+               <pb n="5" facs="tcp:65172:4"/> 
+               <hi>of Gilboa,</hi> &amp;c. If the whole earth was once accurſed by heaven for the ſin of man, 'tis but juſt that you, O unhappy Mountains, ſhould for ever bid adieu to its bleſſings, upon which the light of <hi>Iſrael</hi> was extinguiſhed; you deſerve to loſe your fertility, and be given up to perpetual barrenneſs; and may this expiate, may you rather never more yield an increaſe ſufficient for an offering unto the Lord, than that his heritage ſhould be brought to confuſion, and the blood of his anointed be required at our hands.</p>
+            <p>Theſe two parts therefore, the maledicti<g ref="char:EOLhyphen"/>on, and the reaſon of it: I ſhall diſtinctly con<g ref="char:EOLhyphen"/>ſider, with relation to the preſent ſolemnity. And</p>
+            <p n="1">1. Of the malediction, <hi>Let there be no dew, nor rain upon you, nor fields of offerings.</hi> This we need not force into a Prophecy, as if no rain or dew had ever ſince fallen upon Mount <hi>Gilboa;</hi> and much leſs are we to eſteem it only the rage of the Poet, all rapture and hyperbole; for if we paſs on to its ground and deſign, or compare it with other the like paſſages in ſeveral of the Prophets, it will appear ſo far above a curſe of
+<pb n="6" facs="tcp:65172:5"/> fancy and preſumption, as to be founded upon one that is real and perpetually threatning. 'Tis comment enough but to repeat that one parallel inſtance of <hi>Job</hi>'s curſing the time of his birth, <hi>c.</hi> 3. <hi>Let.</hi> ſaith he, <hi>the day periſh wherein I was born, and the night in which it was ſaid there is a man<g ref="char:EOLhyphen"/>child conceived. Let that day be darkneſs, let not God regard it from above, neither let the light ſhine upon it. Let darkneſs and the ſhadow of death ſtain it, let a cloud dwell upon it,</hi> &amp;c. All which is not a piece of blaſphemy or diſtruſt in God, but a deſigned demonſtration of the bitterneſs of his troubles, and the contempt he had of that life which ſuſ<g ref="char:EOLhyphen"/>tained them; for <hi>Job</hi> is before ſaid, <hi>c.</hi> 1. 21. <hi>not to have charged God fooliſhly;</hi> he was long ſince reſigned and had commenced the ſtandard of patience. And therefore thoſe who firſt igno<g ref="char:EOLhyphen"/>rantly call this murmuring, and then excuſe it by infirmity, they might as well apologize for the Saviour of the world himſelf, who with ſtrong cries prayed the Father that cup might paſs from him, to drink of which he came down from heaven.</p>
+            <p>But if we conſider <hi>David</hi> as a man after God's own heart, and to have been in all the other
+<pb n="7" facs="tcp:65172:5"/> circumſtances of this ſtory moſt eminently care<g ref="char:EOLhyphen"/>ful of his duty to <hi>Saul;</hi> then the Text likewiſe muſt be interpreted by the ſame rule as that of <hi>Job,</hi> not as a flight in Poetry, but for a juſt grief and a deprecation of that guilt wherein the whole land was involved, and which hangs over all Countries, that embrue their hands in the blood of God's Vicegerents.</p>
+            <p>From all which it ſeems an eaſy conſequence, that if <hi>David</hi> ſorrowed and feared ſo much, for the death of a King ſlain in battel and open hoſti<g ref="char:EOLhyphen"/>lity, if he ſo carefully propagated his grief, leſt the curſe ſhould ſpread and become national, if ſo high a concern was neceſſary for one that had been ſo highly provoked, therefore</p>
+            <p n="1">1. The like duty is now univerſal, namely, that we alſo joyn in an united and public lamentation for that ſtill more innocent blood of the Mar<g ref="char:EOLhyphen"/>tyr of this day. And</p>
+            <p n="2">2. That the neglect of it, and an inſenſibility of the guilt, will certainly bring upon us the curſe inſinuated in the Text.</p>
+            <p>Now both theſe particulars ſuppoſe our ſins and our duty to outlive the vulgar opinion; that as ſome crimes are too great to be expiated
+<pb n="8" facs="tcp:65172:6"/> by the puniſhment of one only generation, ſo alſo there are ſome duties that ſurvive the party to whom they were due; we do not perform all the laſt offices to the deceaſed upon his firſt in<g ref="char:EOLhyphen"/>terrment, but his funerals return upon every inſtance deſigned to preſerve his memory, and in this ſence our Lord's death is ſaid to be ſtill ſhewed forth, by a commemorative ſacrifice, and that it ſhall be ſo till he come to judgment. Nay every man that is not ignorant of himſelf muſt acknowledge, that the ſoul is able to pro<g ref="char:EOLhyphen"/>duce the ſame effects by reflex acts as when the object is preſent to us, ſo as to fancy a paſt di<g ref="char:EOLhyphen"/>verſion is to act it over again, and to call back the moſt trifling endearments of a deceaſed friend is to make all our ſorrows bleed afreſh, and to renew thoſe paſſions we at firſt entertain'd him with. Upon this at leaſt are built all thoſe com<g ref="char:EOLhyphen"/>mands of meditating, conſidering, and calling to remembrance things paſt; as the only true way to be affected with them.</p>
+            <p>Since then the duty ſtill remains, and that the very preſence of this honorable Aſſembly ſuppoſes it, we may reflect on the two principal aggravations of thoſe ſufferings we are this day commanded to
+<pb n="9" facs="tcp:65172:6"/> lament over; to the end we may at this diſtance pay ſome faint honours to our late martyr'd Soveraign, and may not be partakers of the ſins and the plagues of his murderers. Now the</p>
+            <p n="1">1. Of theſe aggravations we may juſtly eſteem the private worth of his perſon. To form a juſt Idea of which, and much more to draw his Image, or venture upon his Character, would require a Soul as great as his was; 'twere a profanation in any ruder hand to attempt it, but yet the perfections which were obvious, and within the reach of every the meaneſt be<g ref="char:EOLhyphen"/>holder, are ſufficient to raiſe our grief and ad<g ref="char:EOLhyphen"/>miration.</p>
+            <p>Had all they of his own houſhold been his foes, and conſpired to conceal him from the World, yet it muſt have ſuſpected ſomething great from that blood, in which Nature had united all the gallant diſpoſitions of the chief Chriſtian Families. But when once theſe had gathered ſtrength, and rendred his manhood as auguſt as his birth, then he appeared with all that was requiſite to make him good as a Man, or honourable as a King: There <hi>Plato</hi> might
+<pb n="10" facs="tcp:65172:7"/> have ſeen Learning on the Throne, and Philo<g ref="char:EOLhyphen"/>ſophy in Purple. In him were all thoſe Virtues crowded together and enobled, each of which had eterniz'd its Hero; he little needed the common allowances that are made to other So<g ref="char:EOLhyphen"/>veraigns, from whoſe faults their very enemies, if honourable ones, uſe to retire with reſpect; for if he had any, they were in thoſe generous exceſſes of Pardon and Liberality, which diſtin<g ref="char:EOLhyphen"/>guiſh Princes from the vulgar; that common topic of praiſing him from compariſon, is a real diminution to his greatneſs; he that ſaith he was valiant as <hi>Caeſar,</hi> tells but half the truth, for his Courage was equally great on the Scaf<g ref="char:EOLhyphen"/>fold as in the Field; he owed not his bravery to paſſion or example, but his reſolution was ever ſtrongeſt in Retirement, and he ſhewed moſt gallantry when he had moſt leiſure to fear. To compare his Temperance or his Con<g ref="char:EOLhyphen"/>tempt of the World to that of a beggarly Phi<g ref="char:EOLhyphen"/>loſopher, were to commend his phlegm or his poverty; but he wanted neither great deſires nor great temptations, nor any help of envy to declaim againſt other mens pleaſures, becauſe he could never taſte them himſelf.</p>
+            <pb n="11" facs="tcp:65172:7"/>
+            <p> As for the meekneſs of <hi>Moſes,</hi> the patience of <hi>Job,</hi> and the zeal of <hi>Joſias,</hi> all theſe met in his breaſt<g ref="char:punc">▪</g> and together made up a perfect man; one that all the induſtry of his ene<g ref="char:EOLhyphen"/>mies could never ſearch out a plauſible ac<g ref="char:EOLhyphen"/>cuſation againſt, though their malice pur<g ref="char:EOLhyphen"/>ſued him through all the moſt private actions of his life. The truth is, in him they had nothing to revile but his Virtues, and were it fit to mingle his glory with their re<g ref="char:EOLhyphen"/>proaches, theſe could never be ſo perfectly ſumm'd up as in their calumnies; that which they blaſphemed for Tyranny, was a Boun<g ref="char:EOLhyphen"/>ty that ſcattered among them all his Royal Prerogatives, and left them nothing to mur<g ref="char:EOLhyphen"/>der but Himſelf: theſe ſtrangers to a meek and quiet ſpirit had the inſolence to call his a defect of underſtanding: Obſtinacy in their mouths was in him a firmneſs to his du<g ref="char:EOLhyphen"/>ty, and Superſtition a regularity in Devoti<g ref="char:EOLhyphen"/>on. Nothing certainly but their furious zeal durſt have ſtiled him an enemy to Reli<g ref="char:EOLhyphen"/>gion, of which his life was the greateſt or<g ref="char:EOLhyphen"/>nament; and his death the moſt devout ex<g ref="char:EOLhyphen"/>ample: None elſe had forehead enough to
+<pb n="12" facs="tcp:65172:8"/> pronounce him unworthy to reign, and per<g ref="char:EOLhyphen"/>haps in that inglorious quality a Claſſis was never yet outdone, but by thoſe who have ſince pretended him unable to write.</p>
+            <p>Upon the whole matter, if we ſeriouſly reflect on the many afflictions which ſur<g ref="char:EOLhyphen"/>rounded the head of that excellent Prince, how little he deſerved the leaſt of them from any man, nay how much otherwiſe he me<g ref="char:EOLhyphen"/>rited from moſt of the chief actors; and yet againſt how many fair hopes they pre<g ref="char:EOLhyphen"/>vailed, and with how many ſad circum<g ref="char:EOLhyphen"/>ſtances they were increaſed, as if all that re<g ref="char:EOLhyphen"/>lated to him were but ſo many appendages of his ſufferings; but with what an unſhaken conſtancy he bore them all; we muſt hence conclude, that he was ſeparated by God's eſpecial appointment to give a new example of fortitude to the decaying Virtue of the age, and to confirm the belief of paſt Miracles to one in which they are ceaſed.</p>
+            <p>And thus in King <hi>Solomon</hi>'s phraſe it hap<g ref="char:EOLhyphen"/>ned to the juſt man according to the work of the wicked, and we may well take up his Fathers complaint, <hi>How are the mighty fallen,</hi>
+               <pb n="13" facs="tcp:65172:8"/> 
+               <hi>and the weapons of war periſhed! How is the beauty of Iſrael ſlain upon thine high places! Thou, O unnatural country, no longer merits the common bleſſings of heaven, the rain or the dew, and much leſs thoſe diſtinguiſhing enjoy<g ref="char:EOLhyphen"/>ments, by which it hath hitherto divided thee as well in happineſs as in ſcituation. Why are thine houſes yet ſafe from fear, and the rod of God not upon thee! Wherefore do the wicked ſtill live, become old and mighty in power? why are the old arts but ſtill advancing to thy ruine? but that thou mayeſt at length meet a vengeance worthy of God, and drink up the dregs of his fury.</hi>
+            </p>
+            <p n="2">2. The other great aggravation of our grief is, that in all the guilty parts of our So<g ref="char:EOLhyphen"/>veraign's Martyrdoms his own people had ſo great a ſhare. I am not ignorant how many ſcrupulous conſciences there are, that are truly tender of nothing but a juſt reproof; and how impoſſible it is for him that tells them the truth not to be accounted an Ene<g ref="char:EOLhyphen"/>my, and uſed ſo upon occaſion; 'twere in<g ref="char:EOLhyphen"/>deed a mighty ſtep towards their converſion, if thoſe men could bear ſound doctrine, who
+<pb n="14" facs="tcp:65172:9"/> have hitherto, like <hi>Pliny</hi>'s peeviſh creatures, had their gall in their ears. But although there is an indemnity for their perſons, there is no oblivion indulged their rebellions, we are not bound to ſpare the crime, or cry peace to the wicked, when God ſays there is none; and therefore ſince their general and dreadful impenitences creates a neceſſity of yearly de<g ref="char:EOLhyphen"/>claring who were his Murderers, and who ſtill abhor their principles; I hope it will not be interpreted an invective to give this ſhort account of the action.</p>
+            <p>When therefore the mercy of God had made the goods of our Church pay for the purity of its doctrine, and had advanced a private quarrel into a glorious and public re<g ref="char:EOLhyphen"/>formation, it was of his permiſſion, who al<g ref="char:EOLhyphen"/>ways leaves a way open to puniſh us without a miracle, that ſome of its enemies were ſtill left as thorns in our ſides, and that out of their corruption were hatch'd a new race of men, who having firſt ſowred all the benig<g ref="char:EOLhyphen"/>nity and generoſity of nature, were fit only for executioners, and to be poured out among his other plagues, as a juſt puniſhment of our
+<pb n="15" facs="tcp:65172:9"/> ſies. Theſe, like their brother vermin, were fed only by the rotten members of Church and State; whoever had his ambition checked, or hated the reſt of his brethren, knew pre<g ref="char:EOLhyphen"/>ſently where to herd, and find companions that were friends to none but themſelves.</p>
+            <p>Now of theſe and the Emiſſaries that bred them, was made up that rod of God which had been a long time ſhaked over us, and at length inflicted the ſtroke. For when once our vice and careleſneſs had made them con<g ref="char:EOLhyphen"/>ſiderable, and they could find faults to libel; after a luxurious peace had rendred an honeſt zeal too weak for a falſe one, then were all thoſe ſects and hereſies called out of their ſe<g ref="char:EOLhyphen"/>veral ſhades, to overſpread the land, and min<g ref="char:EOLhyphen"/>gle a perverſe ſpirit in the midſt of our coun<g ref="char:EOLhyphen"/>cels. Hence all our Soveraigns bountiful conceſſions met evil ſurmiſes and ſeditious comments, and theſe were ſeconded by mu<g ref="char:EOLhyphen"/>tinous petitions, ſeditious clamors, and at length open aſſaults. When once the age was enough infatuated to give them admit<g ref="char:EOLhyphen"/>tance, this new race of Saints ſoon preach'd and prayed it into blood and diſobedience;
+<pb n="16" facs="tcp:65172:10"/> the violation of rights, multiplying widows and orphans, rapine and oppreſſion were to them but ſins of daily incurſion; and few were backward in doing that work of the Lord negligently.</p>
+            <p>But theſe were only the beginnings of ſor<g ref="char:EOLhyphen"/>row, nor could an unnatural and ſervile war produce any victories on the ſide of rebellion but what were ſo alſo. With theſe men to overcome and to extirpate were the ſame thing, they had juſt as much reverence for the Crown as they had for the Miter, and kept their oaths to both alike; till at length by ſuch judges as theſe the chief pillars of Church and State were made perfect through ſuffer<g ref="char:EOLhyphen"/>ings; and to fill up the meaſure of their ſins, the great Defender of them both. The ſub<g ref="char:EOLhyphen"/>ject would be too tedious and ungrateful to recount all the inſolencies of his mean con<g ref="char:EOLhyphen"/>querors, the melancholy and terrors of a ſu<g ref="char:EOLhyphen"/>ſpected priſon, the barbarous forms of ſuch a tryal and ſuch an execution, with the other unparrallel'd circumſtances of the crime.</p>
+            <p>But it is high time to obſerve, that to the honour of our Church eſtabliſhed, and may
+<pb n="17" facs="tcp:65172:10"/> it ſo continue, it was no way acceſſary to this direful fact. She had always the ſame Enemies and the ſame fate with her King, they were ever perſecuted, oppreſſed and defamed, and have ever fallen together; her obedience was a nobler thing than to let them periſh unattended; and perhaps in the ſad inſtance now before us it was ne<g ref="char:EOLhyphen"/>ceſſary to have her conſtancy tryed, that ſo famous an example might guide us hereafter, if ever the like occaſion re<g ref="char:EOLhyphen"/>turned.</p>
+            <p>And yet notwithſtanding we were not immediately of acceſſion to ſo vile an acti<g ref="char:EOLhyphen"/>on, our ſins contributed to the judgment, and by conſequence we are bound to mourn for it. In ſuch a day of rebuke and con<g ref="char:EOLhyphen"/>fuſion as this, God particularly takes no<g ref="char:EOLhyphen"/>tice of our behaviour, and ſees every mour<g ref="char:EOLhyphen"/>ner in ſecret: he alſo beholds the riotous eater of Fleſh, and him that drinks Wine, when the Lord calls us to weeping, faſting and mourning. And I hope we ſhall ne<g ref="char:EOLhyphen"/>ver forget our intereſt, by growing weary of the duty.</p>
+            <p n="2">
+               <pb n="18" facs="tcp:65172:11"/> II. The other general inference from <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s malediction, was that without a like ſerious and particular humiliation, the curſe inſinuated in the Text will certainly over<g ref="char:EOLhyphen"/>take us. The ſin indeed is paſſed away, to<g ref="char:EOLhyphen"/>gether with the time in which it was com<g ref="char:EOLhyphen"/>mitted; and there are who ſeem willing we ſhould forget there was one, but the guilt of it remains, and makes us truly debtors to the juſtice of God. For if under the Law, the ſhedding of any innocent blood was ſo crying a ſin, that when the murderer was not known the whole land was reſponſi<g ref="char:EOLhyphen"/>ble, and muſt be purged by a general Sa<g ref="char:EOLhyphen"/>crifice; how unpardonable is it under the Goſpel, where he that loveth not his Bro<g ref="char:EOLhyphen"/>ther is a murderer, and he that reſiſteth re<g ref="char:EOLhyphen"/>ceiveth to himſelf damnation, for any to kill and take poſſeſſion of the Throne?</p>
+            <p>Such bold and daring tranſgreſſions as theſe are above the cognizance of an earthly Tri<g ref="char:EOLhyphen"/>bunal, it is God alone who can inflict an e<g ref="char:EOLhyphen"/>qual puniſhment, and who knows how to ſupply what is wanting towards expiation.
+<pb n="19" facs="tcp:65172:11"/> And were it fit for us to pry into the ſecrets of heaven, we might reaſonably aſcribe it to an inquiſition after this blood, that we ſo long heard the cries of the oppreſſed, and there was none to comfort them; that we beheld Servants on Horſes, and Princes walking as Servants on the Earth; that our Laws, our Liberties, and our Religion, were a prey to ſuch as ſcoffed at Kings, and made Princes a ſcorn; and that after we were reſtored to them again, by a Mi<g ref="char:EOLhyphen"/>racle as great as our Ingratitude, yet then alſo God took the Sword into his hand, that he raiſed up a foreign enemy to make War upon our Coaſts, that he ſent the Peſtilence into our Streets, and a devour<g ref="char:EOLhyphen"/>ing Fire to lay waſte our Metropolis.</p>
+            <p>And is any ſo blind as not to ſee this among the cauſes, why diſtreſs and per<g ref="char:EOLhyphen"/>plexity ſtill remains upon the Nation? Mens hearts failing them for fear, and for looking after thoſe things which are com<g ref="char:EOLhyphen"/>ing on the earth. Is it not Judgment-like, that our excellent Religion, which hath no foreign dependencies, and whoſe proſperity
+<pb n="20" facs="tcp:65172:12"/> alone is founded on that of our Country, ſhould yet be forced to truckle either to the practices of <hi>Rome,</hi> or to a riot of Enthuſi<g ref="char:EOLhyphen"/>aſts; and that we are ſtill threatned in their turns, either with no Church at all, or the worſt among Chriſtians? are we not ſtill left open to a bitter and haſty Nation, to land upon our Coaſts, and poſſeſs the dwel<g ref="char:EOLhyphen"/>ling places which are not theirs? Are not our very bleſſings all turned into a curſe? our boaſted freedom is now only a liberty to bite and devour one another; our long cried up liberty of Conſcience proves one of Impiety, Licentiouſneſs, and Error, and at beſt ſerves for a ſtep to Dominion more than De<g ref="char:EOLhyphen"/>votion; our Laws are indeed open, but to the continual conſpiracies of falſe witneſſes againſt the Lives and Fortunes of the Inno<g ref="char:EOLhyphen"/>cent; but if the Fountain alſo is troubled, as the many attempts to clear it inſinuate, if there be wickedneſs in high places, or it were poſſible to believe the reports, of Pa<g ref="char:EOLhyphen"/>triots that prefer others ſafety to our own, of Fathers that were never Sons, of Guardians that ſell their Truſt, or the like Contradicti<g ref="char:EOLhyphen"/>ons
+<pb n="21" facs="tcp:65172:12"/> in Morality, then we may conclude that God's anger is not yet turned away, but his hand ſtretched out ſtill, and the ven<g ref="char:EOLhyphen"/>geance impending.</p>
+            <p>And thus I have attempted ſome poor ac<g ref="char:EOLhyphen"/>count of the malediction, in order to avoid the like; it remains to conſider the reaſon of it, <hi>For there the Shield of the Mighty was vilely caſt away, the Shield of</hi> Saul <hi>as though he had not been anointed with Oyl.</hi>
+            </p>
+            <p>This expreſſion of <hi>David</hi>'s grief we have no reaſon to aſcribe to any perſonal obliga<g ref="char:EOLhyphen"/>tions, and therefore it muſt be interpreted as a confirmation of the practice of all wiſe and civilized nations, who have been al<g ref="char:EOLhyphen"/>ways ſo ſenſible of the advantages of Go<g ref="char:EOLhyphen"/>vernment, as both to ſolemnize the birth of their Kings with all the expreſſions of pub<g ref="char:EOLhyphen"/>lick joy, and to attend their deaths with as great demonſtrations of mourning. Nor was it anciently eſteemed an empty ceremo<g ref="char:EOLhyphen"/>ny to have the memory of a judgment pre<g ref="char:EOLhyphen"/>ſerv'd by a ſolemnity, but as neceſſary to imprint a ſenſe of its miſery, and to endear the contrary bleſſing; the multitude being
+<pb n="22" facs="tcp:65172:13"/> wholly led by their ſenſes, and the wiſeſt hardly eſcaping the being affected by them.</p>
+            <p>We are not then to look upon <hi>David</hi>'s action as private only and temporary, which cannot be drawn into example; but it ex<g ref="char:EOLhyphen"/>preſſes the ſetled and publick opinion of the whole <hi>Jewiſh</hi> Church. For he might formerly have as eaſily cut off <hi>Saul</hi>'s head as he did his garment<g ref="char:punc">▪</g> but that faith <hi>Optatus, Timuit Oleum,</hi> the holy Oil was upon his head, and his character ſacred. And I hope we, who pretend to a better informa<g ref="char:EOLhyphen"/>tion than the <hi>Jews</hi> ever had, ſhall not be leſs ſound in the doctrine of civil obedi<g ref="char:EOLhyphen"/>ence, or think it altered by the late exerciſe of that proviſional power, which is neceſſa<g ref="char:EOLhyphen"/>rily reſerved to a free people upon all ex<g ref="char:EOLhyphen"/>traordinary emergencies. All theſe are que<g ref="char:EOLhyphen"/>ſtions of law and conſtitution, and were of old ſo little thought to belong unto Divi<g ref="char:EOLhyphen"/>nity, that ours is the firſt State Schiſm known in the world; and therefore our Superiors owe very little to the controvertiſts on either ſide.</p>
+            <pb n="23" facs="tcp:65172:13"/>
+            <p> But the time allows not a juſt proſecu<g ref="char:EOLhyphen"/>tion of the ſubject, and much leſs a digreſ<g ref="char:EOLhyphen"/>ſion from it; if then we recollect the whole, we have heard the guilt and ſtill feel the conſequences of this wicked action; it hath brought us nigh unto curſing, for it was this villany which firſt forced the poſterity of that pious King out of their Country, and their Religion together, and which, as a conſequence of that, hath entailed upon us diſputed titles, and for ought yet appears endleſs wars.</p>
+            <p>The way then to appeaſe the wrath of God, and to waſh out the guilty ſtain of our Soveraigns blood, is not to unite in for<g ref="char:EOLhyphen"/>getting it, or to add impudence to the crime, by ſeeking to depreſs his credit, but to make the remembrance of his unde<g ref="char:EOLhyphen"/>ſerved ſufferings ſtill more ſolemn and effe<g ref="char:EOLhyphen"/>ctual, that the ſhame juſtly due, and ſo of<g ref="char:EOLhyphen"/>ten charged to the account of our Nation for them, may be an inſtrument to turn us from our tranſgreſſions, and make us bring forth fruits meet for repentance. It is yet in the power of an humble repentance to
+<pb n="24" facs="tcp:65172:14"/> make God ſhine upon our Councels, and go forth with our Armies, and though our ſhort-ſighted reaſon can ſee nothing before us but blackneſs and darkneſs and confuſi<g ref="char:EOLhyphen"/>on, yet he can by unforeſeen ways eaſily diſperſe the ſtorm, and eſtabliſh our happi<g ref="char:EOLhyphen"/>neſs as the ſtrong mountains.</p>
+            <p>And in order to attain that happy end of our follies, give me leave to conclude with King <hi>Solomon</hi>'s axiom, <hi>Prov.</hi> 29. 25. <hi>The fear of man bringeth a ſnare, but whoſo putteth his truſt in the Lord ſhall be ſafe.</hi> We are fallen into thoſe dregs of time, wherein hy<g ref="char:EOLhyphen"/>pocriſie and profaneneſs ſeem to divide the world between them, and all true and un<g ref="char:EOLhyphen"/>affected piety is out of countenance; where<g ref="char:EOLhyphen"/>in all the ſacred ties to our King and Coun<g ref="char:EOLhyphen"/>try appear as looſe as our manners; and in which that generous honeſty and integrity, which was once the glory and the character of our Nation, is all vaniſhed into mean, falſe and undermining compliances. If then we dare own diſcouraged Virtues, and would ſtand in the gap to ſave the whole from deſtruction, the true way is not to fol<g ref="char:EOLhyphen"/>low
+<pb n="23" facs="tcp:65172:14"/> a multitude to do evil, or to joyn in thoſe faſhionable flatteries that are ruin to the embracers; much leſs are we to put any confidence in our ſelves, whoſe ſtrength is but weakneſs, but we are according to the wiſe mans direction to truſt in the Lord, that is, in the conſtant ſenſe of Holy Writ, to make our ways ſo direct as may encou<g ref="char:EOLhyphen"/>rage our affiance in him. And if God be for us, who can be againſt us? May he therefore endue us all with this wiſdom from above, and only true greatneſs of mind, that we may keep innocency, and do the thing that is right, and this ſhall bring us peace at the laſt.</p>
+            <p>
+               <hi>Now to God the Father, God the Son, and God the Holy Ghoſt, be all glory and ho<g ref="char:EOLhyphen"/>nour, world without end,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
